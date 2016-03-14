@@ -1,4 +1,4 @@
-[!screenshot](https://raw.githubusercontent.com/jeffThompson/DuoPlus/master/Screenshot.png)
+![screenshot](https://raw.githubusercontent.com/jeffThompson/DuoPlus/master/Screenshot.png)
 
 # Duo Plus
 
